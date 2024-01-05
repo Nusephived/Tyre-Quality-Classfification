@@ -1,4 +1,4 @@
-# Tyre Quality
+# Tyre Quality Classification
 CVUT, Computational Intelligence Methods, Semester project
 
 ## Data
