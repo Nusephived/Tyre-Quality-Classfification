@@ -12,4 +12,6 @@ I can't upload the dataset as it's too big, download it [here](https://www.kaggl
 
 ## Documentation / Blog post
 
+I've merged the documentation and the blog post because they deal with similar concepts. In this way, theory and practice are closely linked.
+
 [Here](https://github.com/Nusephived/Tyre-Quality-Classfification/blob/main/Documentation.pdf)
