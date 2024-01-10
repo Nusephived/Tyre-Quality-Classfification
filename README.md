@@ -14,4 +14,4 @@ I can't upload the dataset as it's too big, download it [here](https://www.kaggl
 
 I've merged the documentation and the blog post because they deal with similar concepts. In this way, theory and practice are closely linked.
 
-[Here](https://github.com/Nusephived/Tyre-Quality-Classfification/blob/main/Documentation.pdf)
+[Here](https://github.com/Nusephived/TyreQualityClassification/blob/main/Documentation%20%26%20Blog%20post.pdf)
